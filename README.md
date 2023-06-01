@@ -18,6 +18,6 @@ You can find the following:
 6. Parallel LINQ with Array
 
 ## Example run on .NET 6:
-![image](https://github.com/xx7Ahmed7xx/ExecutionTimeInLoops/assets/36636484/50669fdc-21fa-4902-8a4e-63a3b1b28240)
+![image](https://github.com/xx7Ahmed7xx/ExecutionTimeInLoops/assets/36636484/1164a622-a1e5-4dd6-ae17-0ca691d1f8a7)
 
 ### Don't forget to star and follow me ❤😎🥺
