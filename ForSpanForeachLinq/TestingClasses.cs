@@ -14,7 +14,7 @@ namespace ForSpanForeachLinq
     public class TestingClasses
     {
         public static int[] ints;
-        [Params(100,1000)]
+        [Params(100,1000, 10000)]
         public static int Size { get; set; }
 
         static ReadOnlySpan<int> intSpans => new Span<int>(ints);
