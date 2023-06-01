@@ -16,5 +16,8 @@ You can find the following:
 4. Foreach with Span
 5. Parallel Foreach with Array
 6. Parallel LINQ with Array
-  
+
+## Example run on .NET 6:
+![image](https://github.com/xx7Ahmed7xx/ExecutionTimeInLoops/assets/36636484/eec8dba3-cada-47a6-80fb-570ae3887fac)
+
 ### Don't forget to star and follow me ❤😎🥺
