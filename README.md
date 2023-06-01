@@ -6,7 +6,7 @@ In this repository, you can find a C# project that contains 2 classes:
 - TestinClasses.cs : the actual testing code is here for the different loops
 - Program.cs : the class with the main entry point to start testing (plus some old code for another purposes)
 ## How can you run the test?
-Simply add "BenchmarkRunner.Run<TestingClasses>()" into the entry point of your project (incase you imported it into another one) and run the project in RELEASE mode.
+Simply add "BenchmarkRunner.Run&lt;TestingClasses&gt;()" into the entry point of your project (incase you imported it into another one) and run the project in RELEASE mode.
 ## What type of loops can be found here?
 I tried to include all that I could think of, feel free to add to it by forking and adding into your own repository and making a pull request here.
 You can find the following:
@@ -18,6 +18,6 @@ You can find the following:
 6. Parallel LINQ with Array
 
 ## Example run on .NET 6:
-![image](https://github.com/xx7Ahmed7xx/ExecutionTimeInLoops/assets/36636484/eec8dba3-cada-47a6-80fb-570ae3887fac)
+![image](https://github.com/xx7Ahmed7xx/ExecutionTimeInLoops/assets/36636484/50669fdc-21fa-4902-8a4e-63a3b1b28240)
 
 ### Don't forget to star and follow me ❤😎🥺
